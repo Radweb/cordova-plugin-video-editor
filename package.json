@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-video-editor-fork",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This is a cordova plugin to assist in several video editing tasks such as:",
   "main": "index.js",
   "scripts": {
