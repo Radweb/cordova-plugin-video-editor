@@ -8,6 +8,12 @@ After looking at an article on [How Vine Satisfied Its Need for Speed](http://ww
 
 This plugin will address those concerns, hopefully.
 
+## Installation
+```
+cordova plugin add https://github.com/jbavari/cordova-plugin-video-editor.git
+```
+`VideoEditor` and `VideoEditorOptions` will be available in the window after deviceready.
+
 ## Usage
 
 ###Transcode###
@@ -160,3 +166,9 @@ function createThumbnailSuccess(result) {
 [How to Port ffmpeg (the Program) to Android–Ideas and Thoughts](http://www.roman10.net/how-to-port-ffmpeg-the-program-to-androidideas-and-thoughts/)
 
 [How to Build Android Applications Based on FFmpeg by An Example](http://www.roman10.net/how-to-build-android-applications-based-on-ffmpeg-by-an-example/)
+
+## License
+
+Android: GPL
+
+iOS: MIT

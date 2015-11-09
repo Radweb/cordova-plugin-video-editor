@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-video-editor-fork" version="0.0.3" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="cordova-plugin-video-editor-fork" version="0.0.4" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>VideoEditor</name>
     <description>A plugin to assist in video editing tasks</description>
     <keywords>cordova,video,editing,transcoding,encoding</keywords>
     <repo>https://github.com/Radweb/cordova-plugin-video-editor.git</repo>
-    <license>Apache 2.0</license>
-
+    <license>MIT for iOS, GPL for Android</license>
 
     <js-module name="VideoEditor" src="www/VideoEditor.js">
         <clobbers target="VideoEditor" />
